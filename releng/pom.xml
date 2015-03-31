@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This file is protected by Copyright. Please refer to the COPYRIGHT file 
-  distributed with this source distribution. This file is part of REDHAWK IDE. 
-  All rights reserved. This program and the accompanying materials are made 
-  available under the terms of the Eclipse Public License v1.0 which accompanies 
+<!-- This file is protected by Copyright. Please refer to the COPYRIGHT file
+  distributed with this source distribution. This file is part of REDHAWK IDE.
+  All rights reserved. This program and the accompanying materials are made
+  available under the terms of the Eclipse Public License v1.0 which accompanies
   this distribution, and is available at http://www.eclipse.org/legal/epl-v10.html. -->
 <project
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
@@ -26,9 +26,9 @@
     <nebula>http://download.eclipse.org/technology/nebula/archives/Q32014/release/</nebula>
     <nxm>http://nextmidas.techma.com/p2/nxm/updates/latest</nxm>
     <nxm-rcp>http://nextmidas.techma.com/p2/nxm.ui/updates/latest/</nxm-rcp>
-    <jacorb>http://download.redhawksdr.org/jacorb/updates/stable</jacorb>
-    <mil.jpeojtrs.sca>http://download.redhawksdr.org/mil.jpeojtrs.sca/releases/2.0</mil.jpeojtrs.sca>
-    <gov.redhawk.core>http://download.redhawksdr.org/gov.redhawk.core/releases/2.0</gov.redhawk.core>
+    <jacorb>http://redhawk-ide-p2.s3-website-us-east-1.amazonaws.com/jacorb</jacorb>
+    <mil.jpeojtrs.sca>http://redhawk-ide-p2.s3-website-us-east-1.amazonaws.com/mil.jpeojtrs.sca-2.0</mil.jpeojtrs.sca>
+    <gov.redhawk.core>http://redhawk-ide-p2.s3-website-us-east-1.amazonaws.com/gov.redhawk.core-2.0</gov.redhawk.core>
     <swt-bot>http://download.eclipse.org/technology/swtbot/releases/latest/</swt-bot>
     <pydev>http://pydev.org/updates/</pydev>
   </properties>
