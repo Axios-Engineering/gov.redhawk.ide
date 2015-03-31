@@ -27,7 +27,7 @@
     <gov.redhawk.ide.help.doc.zip>http://download.redhawksdr.org/docs/doc.zip</gov.redhawk.ide.help.doc.zip>
   </properties>
 
-  <build>
+  <!--<build>
     <plugins>
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
@@ -48,5 +48,5 @@
             </executions>
         </plugin>
     </plugins>
-  </build>
+  </build>-->
 </project>
