@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/Axios-Engineering/gov.redhawk.ide.svg?branch=develop-2.0)](https://travis-ci.org/Axios-Engineering/gov.redhawk.ide)
 # REDHAWK Eclipse IDE
  
 ## Description
